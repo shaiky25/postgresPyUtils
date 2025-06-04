@@ -44,6 +44,7 @@ usort = "^1.0.8.post1"
 mypy = "^1.15.0"
 codespell = "^2.4.1"
 rich = "^13.9.4"
+psycopg2 ="2.9.4"  
 
 # Auto-generated version for builds based on git tag or commit.
 #
