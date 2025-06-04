@@ -1,0 +1,9 @@
+# Changes here will be overwritten by Copier. Do not edit manually.
+_commit: 3db19dc
+_src_path: gh:jlevy/simple-modern-poetry
+package_author_email: fshaik8@discover.com
+package_author_name: faizuddin shaik
+package_description: Utility/Library to read data from postgres db by business
+package_github_org: shaiky25
+package_name: cbrbnk
+package_slug: postgresUtils
